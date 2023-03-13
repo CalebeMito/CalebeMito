@@ -17,4 +17,4 @@ I'm a {backend, frontend} developer
 </div>
 
 
-![Snake animation](https://github.com/calebebirer/calebebirer/blob/output/github-contribution-grid-snake.svg) 
+![Snake animation](https://github.com/CalebeMito/CalebeMito/blob/output/github-contribution-grid-snake.svg) 
